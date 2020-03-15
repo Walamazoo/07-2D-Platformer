@@ -3,7 +3,7 @@ extends Actor
 
 onready var stomp_area: Area2D = $StompArea2D
 
-export var score: = 100
+export var score: = 5
 
 
 func _ready() -> void:
